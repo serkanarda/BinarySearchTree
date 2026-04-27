@@ -26,4 +26,6 @@ Tüm bu yerleştirmeler bittikten sonra ağacın haritası (şeması) şu şekil
       / \
      2   4
 
+---------------------------------------
+
 
