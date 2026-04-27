@@ -16,7 +16,7 @@ Adım 9: Sıradaki sayı 4. 7'den küçük, 5'ten küçük, 1'den büyük, 3'ten
 Adım 10: Sıradaki sayı 2. 7'den küçük, 5'ten küçük, 1'den büyük, 3'ten küçük. 3'ün soluna eklenir.
 Tüm bu yerleştirmeler bittikten sonra ağacın haritası (şeması) şu şekilde görünür:
 
-          7
+      	  7
         /   \
        5     8
       / \     \
@@ -25,3 +25,5 @@ Tüm bu yerleştirmeler bittikten sonra ağacın haritası (şeması) şu şekil
    0   3
       / \
      2   4
+
+
